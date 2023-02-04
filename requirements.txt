@@ -1,0 +1,8 @@
+tensorflow==2.11.0
+tensorflow-addons==0.19.0
+tensorflow-recommenders==0.7.2
+pandas==1.5.3
+fastapi==0.89.1
+uvicorn==0.20.0
+requests==2.28.2
+protobuf<=3.20
